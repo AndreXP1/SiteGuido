@@ -1,7 +1,7 @@
 "use strict";
 
 document.addEventListener("DOMContentLoaded", function () {
-  var apiURL = "https://script.google.com/macros/s/AKfycbyDTNfilZAwrRnnbLJeuM-5RfHN08wCdEPgobvvDC1hStijWEN5OA53D1yA-uErP9Rk/exec"; // Substitua por sua URL real
+  var apiURL = "https://script.google.com/macros/s/AKfycbyDTNfilZAwrRnnbLJeuM-5RfHN08wCdEPgobvvDC1hStijWEN5OA53D1yA-uErP9Rk/exec"; 
 
   var buttons = document.querySelectorAll(".rating-btn");
   var resultDiv = document.getElementById("result");
