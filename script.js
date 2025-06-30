@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-const apiURL = "https://script.google.com/macros/s/AKfycbyDTNfilZAwrRnnbLJeuM-5RfHN08wCdEPgobvvDC1hStijWEN5OA53D1yA-uErP9Rk/exec"; // Substitua por sua URL real
+const apiURL = "https://script.google.com/macros/s/AKfycbyDTNfilZAwrRnnbLJeuM-5RfHN08wCdEPgobvvDC1hStijWEN5OA53D1yA-uErP9Rk/exec";
 
 const buttons = document.querySelectorAll(".rating-btn");
 const resultDiv = document.getElementById("result");
